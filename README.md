@@ -38,6 +38,8 @@ Since not all contestants are actually participating, only display those Constes
 The output of two consecutive cases will be separated by a blank line.
 
 Sample input
+
+```
 1
 1 2 10 I
 3 1 11 C
@@ -45,10 +47,15 @@ Sample input
 1 2 21 C
 1 1 25 C
 
+```
+
 Output sample
+
+```
 1 2 66
 3 1 11
 
+```
 # Project
 
 The project running in ```python3 ```
